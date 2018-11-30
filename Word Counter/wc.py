@@ -1,3 +1,4 @@
+#Mimics wc utility used in unix/linux.
 import sys
 num_of_char = 0
 num_of_words = 0
