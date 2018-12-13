@@ -1,6 +1,6 @@
 class Hangman(object):  
     
-    def __init__(self, level=5, non_ascii=False, dictionary=r'C:\Users\Salma\Documents\GitHub\randomwords.'):
+    def __init__(self, level=5, non_ascii=False, dictionary=r'#insert file path here'):
         self.level = level
         self.non_ascii = non_ascii
         self.dictionary = dictionary 
